@@ -9,7 +9,7 @@
 
 Young people aged 14 to 25 spend a weekend building tools that expose what is broken in Bulgarian public services, using real data and real government sites. They register on this site, form teams, follow the programme on a live screen in the room, and pitch to a jury on Sunday afternoon.
 
-**LiberHack 2026, Burgas** · 5 to 7 June 2026 · two organisers, Telerik Academy as partner · 44 participants in 15 teams · web
+**LiberHack 2026, Burgas** · 5 to 7 June 2026 · two developers · 44 participants in 15 teams · web
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/LiberHack/.github/main/profile/assets/landing-page.png" alt="liberhack.org landing page" width="900">
@@ -84,7 +84,7 @@ The public pages work without a Supabase project; registration, teams and the ad
 
 ## Team
 
-- **Kirill Ibragimov** ([HexChap](https://github.com/HexChap)) — co-founder and co-organiser; wrote the regulations and judging rubric, secured sponsors, coordinated with Telerik Academy, and built most of the platform (registration, teams, admin, email, deployment).
-- **[simeonnv](https://github.com/simeonnv)** — co-founder and co-organiser; built the landing page and part of the initial scaffolding of the platform.
+- **Kirill Ibragimov** ([HexChap](https://github.com/HexChap)) — co-organiser and lead developer; wrote the regulations and judging rubric, secured sponsors, and built most of the platform (registration, teams, admin, email, deployment).
+- **[simeonnv](https://github.com/simeonnv)** — developer; built the landing page and part of the initial scaffolding of the platform.
 
 Part of a series of platforms; the CV and the rest of the work are at [github.com/HexChap](https://github.com/HexChap).
