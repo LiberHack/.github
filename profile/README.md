@@ -50,7 +50,7 @@ Why it is shaped this way:
 
 | | |
 |---|---|
-| ![Coffee break](https://raw.githubusercontent.com/LiberHack/.github/main/profile/assets/event-room.jpg) Participants at the Saturday coffee break | ![Registration form](https://raw.githubusercontent.com/LiberHack/.github/main/profile/assets/registration-form.png) Registration with skill picker, experience level and consent (staging, sample data) |
+| ![Coffee break](https://raw.githubusercontent.com/LiberHack/.github/main/profile/assets/event-room.jpg) Participants at the Sunday lunch break | ![Registration form](https://raw.githubusercontent.com/LiberHack/.github/main/profile/assets/registration-form.png) Registration with skill picker, experience level and consent (staging, sample data) |
 | ![Team dashboard](https://raw.githubusercontent.com/LiberHack/.github/main/profile/assets/team-dashboard.png) Participant dashboard: profile, team, wanted skills and invite link | ![Join request email](https://raw.githubusercontent.com/LiberHack/.github/main/profile/assets/email-join-request.png) Join request email sent to the team leader |
 | ![Admin panel](https://raw.githubusercontent.com/LiberHack/.github/main/profile/assets/admin-participants.png) Admin panel: participant list and CSV export (names and emails blurred) | ![Opening ceremony](https://raw.githubusercontent.com/LiberHack/.github/main/profile/assets/opening-ceremony.jpg) Opening on Friday with the partner and sponsors |
 
